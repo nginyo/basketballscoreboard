@@ -1,0 +1,38 @@
+body{
+    width: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    background-size: cover;
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/R.353ab776c5dc259f8cf1bbf4cc31d5ee?rik=84DcMyMvd66XDQ&pid=ImgRaw&r=0");
+}
+.container{
+    position: relative;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+   
+    }
+.guest{
+    margin-left: 50px;
+}
+.container p{
+    display: inline-block;
+    
+}
+.container p button{
+    background-color: teal;
+    width:70px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main{
+align-self: center;
+margin-bottom: 20px;
+color: brown;
+font-size:xx-large;
+}
